@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"fmt"
-	"go-first-project/initializers"
-	"go-first-project/models"
+	"go-boiler-plate/initializers"
+	"go-boiler-plate/models"
 	"net/http"
 	"os"
 	"time"

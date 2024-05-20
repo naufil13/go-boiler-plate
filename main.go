@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-first-project/initializers"
-	"go-first-project/routes"
+	"go-boiler-plate/initializers"
+	"go-boiler-plate/routes"
 )
 
 func init() {

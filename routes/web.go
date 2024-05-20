@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"go-first-project/controllers"
-	"go-first-project/middleware"
+	"go-boiler-plate/controllers"
+	"go-boiler-plate/middleware"
 
 	"github.com/gin-gonic/gin"
 )

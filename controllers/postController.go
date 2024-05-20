@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"encoding/json"
-	"go-first-project/initializers"
-	"go-first-project/models"
+	"go-boiler-plate/initializers"
+	"go-boiler-plate/models"
 	"net/http"
 	"time"
 

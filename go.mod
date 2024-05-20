@@ -1,4 +1,4 @@
-module base-project
+module go-boiler-plate
 
 go 1.22.2
 
